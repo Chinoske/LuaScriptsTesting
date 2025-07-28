@@ -6,6 +6,7 @@ Lua scripts for WoW private servers using Eluna Engine.
 
 - **WorldChat** - Global chat with faction icons & special roles
 - **Pocket Portal** - Teleportation system with 140+ locations + GM Island
+- **NPC Guardian** - Anti-cheat system with dramatic enforcement & GM tools
 
 ## Features
 - Database integration
