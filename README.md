@@ -19,6 +19,7 @@ This repository provides a straightforward approach to managing Lua scripts. All
 lua_script_testing/
 ├── lua_scripts/          # Main Lua scripts directory
 ├── ListScripts-Dev.txt   # Development scripts list
+```
 
 ## Scripts in Development
 
