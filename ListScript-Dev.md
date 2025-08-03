@@ -19,3 +19,4 @@ This section contains scripts currently under active development. These scripts 
 🏆 **Killing Streak System** - Advanced PvP tracking with achievements, sounds & leaderboards
 
 🤖 **NPC Assistant System** - Personal AI companion with inventory management, combat assistance & mount synchronization (AzerothCore WotLK)
+                             - Interfaces: Traditional Gossip menus + Modern AIO graphical interface.
